@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm deeply passionate about backend development, focusing on PHP and Laravel's versatility and Java Spring Boot's enterprise capabilities. Laravel's elegance and PHP's adaptability have made coding a joy, enabling the creation of scalable and feature-rich applications. Exploring Java Spring Boot has opened doors to enterprise-level solutions, simplifying complex tasks and facilitating the development of high-performance systems. The thrill of problem-solving is at the core of my journey, turning every coding challenge into a satisfying puzzle. I am committed to continuous learning, staying updated on industry trends, and contributing to the ever-evolving landscape of backend development.
 
-Skills: PHP / Laravel / Java / Spring Boot / JavaScript
+Skills: ###PHP / Laravel / Java / Spring Boot / JavaScript
 
 - 🔭 I’m currently working on some projects using PHP / Laravel. 
 - 🌱 I’m currently learning Cloud Computing, Backend Development. 
